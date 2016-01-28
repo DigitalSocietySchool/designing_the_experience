@@ -1,0 +1,107 @@
+#u2101
+{
+	background-color: #F0F0EF;
+	background-color: rgba(234,234,233,0.7);
+	-pie-background: rgba(234,234,233,0.7);
+}
+
+#buttonu2336
+{
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	position: fixed;
+}
+
+#buttonu2336:hover
+{
+	background: transparent url("../images/streep.svg") repeat-x center bottom;
+	background-size: 50px 5px;
+}
+
+#buttonu2342
+{
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	position: fixed;
+}
+
+#buttonu2336.ButtonSelected,#buttonu2342:hover
+{
+	background: transparent url("../images/streep.svg") repeat-x center bottom;
+	background-size: 50px 5px;
+}
+
+#buttonu2339
+{
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	position: fixed;
+}
+
+#buttonu2342.ButtonSelected,#buttonu2339:hover
+{
+	background: transparent url("../images/streep.svg") repeat-x center bottom;
+	background-size: 50px 5px;
+}
+
+#buttonu2327
+{
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	position: fixed;
+}
+
+#buttonu2339.ButtonSelected,#buttonu2327:hover
+{
+	background: transparent url("../images/streep.svg") repeat-x center bottom;
+	background-size: 50px 5px;
+}
+
+#buttonu2330
+{
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	position: fixed;
+}
+
+#buttonu2327.ButtonSelected,#buttonu2330:hover
+{
+	background: transparent url("../images/streep.svg") repeat-x center bottom;
+	background-size: 50px 5px;
+}
+
+#buttonu2333
+{
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	position: fixed;
+}
+
+#buttonu2330.ButtonSelected,#buttonu2333:hover
+{
+	background: transparent url("../images/streep.svg") repeat-x center bottom;
+	background-size: 50px 5px;
+}
+
+#buttonu2333.ButtonSelected
+{
+	background: transparent url("../images/streep.svg") repeat-x center bottom;
+	background-size: 50px 5px;
+}
+
+.nosvg #buttonu2336:hover,.nosvg #buttonu2336.ButtonSelected,.nosvg #buttonu2342:hover,.nosvg #buttonu2342.ButtonSelected,.nosvg #buttonu2339:hover,.nosvg #buttonu2339.ButtonSelected,.nosvg #buttonu2327:hover,.nosvg #buttonu2327.ButtonSelected,.nosvg #buttonu2330:hover,.nosvg #buttonu2330.ButtonSelected,.nosvg #buttonu2333:hover,.nosvg #buttonu2333.ButtonSelected
+{
+	background-image: url('../images/streep_poster_u323.png');
+}
+
+#u2337,#u2343,#u2340,#u2328,#u2331,#u2334,#u2101_align_to_page
+{
+	position: relative;
+}
+

@@ -1,0 +1,228 @@
+.version.cards_pages /* version checker */
+{
+	color: #000005;
+	background-color: #972E39;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 627px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u2101
+{
+	z-index: 2;
+	height: 800px;
+}
+
+#u2101-bw
+{
+	z-index: 2;
+	margin-top: -36px;
+	height: 800px;
+}
+
+#pbuttonu2336
+{
+	width: 0.01px;
+	padding-bottom: 21px;
+	margin-right: -10000px;
+	margin-top: -16px;
+	margin-left: 597px;
+}
+
+#buttonu2336
+{
+	z-index: 9;
+	width: 40px;
+	padding-bottom: 3px;
+	top: -16px;
+	left: 597px;
+}
+
+#buttonu2336:hover
+{
+	width: 40px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#buttonu2336.ButtonSelected
+{
+	width: 40px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2337
+{
+	z-index: 10;
+	margin-right: -10000px;
+}
+
+#buttonu2342
+{
+	z-index: 13;
+	width: 90px;
+	padding-bottom: 3px;
+	top: -16px;
+	left: 643px;
+}
+
+#buttonu2342:hover
+{
+	width: 90px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#buttonu2342.ButtonSelected
+{
+	width: 90px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2343
+{
+	z-index: 14;
+	margin-right: -10000px;
+}
+
+#buttonu2339
+{
+	z-index: 11;
+	width: 86px;
+	padding-bottom: 3px;
+	top: -16px;
+	left: 739px;
+}
+
+#buttonu2339:hover
+{
+	width: 86px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#buttonu2339.ButtonSelected
+{
+	width: 86px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2340
+{
+	z-index: 12;
+	margin-right: -10000px;
+}
+
+#buttonu2327
+{
+	z-index: 3;
+	width: 57px;
+	padding-bottom: 3px;
+	top: -16px;
+	left: 831px;
+}
+
+#buttonu2327:hover
+{
+	width: 57px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#buttonu2327.ButtonSelected
+{
+	width: 57px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2328
+{
+	z-index: 4;
+	margin-right: -10000px;
+}
+
+#buttonu2330
+{
+	z-index: 5;
+	width: 92px;
+	padding-bottom: 3px;
+	top: -16px;
+	left: 894px;
+}
+
+#buttonu2330:hover
+{
+	width: 92px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#buttonu2330.ButtonSelected
+{
+	width: 92px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2331
+{
+	z-index: 6;
+	margin-right: -10000px;
+}
+
+#buttonu2333
+{
+	z-index: 7;
+	width: 62px;
+	padding-bottom: 3px;
+	top: -16px;
+	left: 993px;
+}
+
+#buttonu2333:hover
+{
+	width: 62px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#buttonu2333.ButtonSelected
+{
+	width: 62px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2334
+{
+	z-index: 8;
+	margin-right: -10000px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 102px;
+}
+

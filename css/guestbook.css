@@ -1,0 +1,333 @@
+.version.guestbook /* version checker */
+{
+	color: #000014;
+	background-color: #FE4E85;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 526px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u2101
+{
+	z-index: 2;
+	min-height: 800px;
+}
+
+#u2101_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	left: -100px;
+	padding-top: 89px;
+	padding-bottom: 238px;
+}
+
+#u2352
+{
+	z-index: 27;
+	left: 316px;
+	position: relative;
+}
+
+#pu2299
+{
+	width: 0.01px;
+	left: 100px;
+	margin-top: 32px;
+	position: relative;
+}
+
+#u2299
+{
+	z-index: 40;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#u2304
+{
+	z-index: 41;
+	position: relative;
+	margin-right: -10000px;
+	left: 339px;
+}
+
+#u2309
+{
+	z-index: 42;
+	position: relative;
+	margin-right: -10000px;
+	left: 679px;
+}
+
+#pu2314-8
+{
+	width: 0.01px;
+	left: 100px;
+	margin-top: 14px;
+	position: relative;
+}
+
+#u2314-8
+{
+	z-index: 3;
+	width: 281px;
+	min-height: 40px;
+	background-color: transparent;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#u2315-8
+{
+	z-index: 11;
+	width: 281px;
+	min-height: 40px;
+	background-color: transparent;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 339px;
+}
+
+#u2316-8
+{
+	z-index: 19;
+	width: 281px;
+	min-height: 40px;
+	background-color: transparent;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 679px;
+}
+
+#u2314-4,#u2315-4,#u2316-4
+{
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 600;
+}
+
+#u2101-bw
+{
+	z-index: 2;
+	min-height: 800px;
+	margin-top: -36px;
+}
+
+#pbuttonu2336
+{
+	width: 0.01px;
+	padding-bottom: 21px;
+	margin-right: -10000px;
+	margin-top: -16px;
+	margin-left: 597px;
+}
+
+#buttonu2336
+{
+	z-index: 34;
+	width: 40px;
+	padding-bottom: 3px;
+	top: -16px;
+	left: 597px;
+}
+
+#buttonu2336:hover
+{
+	width: 40px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#buttonu2336.ButtonSelected
+{
+	width: 40px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2337
+{
+	z-index: 35;
+	margin-right: -10000px;
+}
+
+#buttonu2342
+{
+	z-index: 38;
+	width: 90px;
+	padding-bottom: 3px;
+	top: -16px;
+	left: 643px;
+}
+
+#buttonu2342:hover
+{
+	width: 90px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#buttonu2342.ButtonSelected
+{
+	width: 90px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2343
+{
+	z-index: 39;
+	margin-right: -10000px;
+}
+
+#buttonu2339
+{
+	z-index: 36;
+	width: 86px;
+	padding-bottom: 3px;
+	top: -16px;
+	left: 739px;
+}
+
+#buttonu2339:hover
+{
+	width: 86px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#buttonu2339.ButtonSelected
+{
+	width: 86px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2340
+{
+	z-index: 37;
+	margin-right: -10000px;
+}
+
+#buttonu2327
+{
+	z-index: 28;
+	width: 57px;
+	padding-bottom: 3px;
+	top: -16px;
+	left: 831px;
+}
+
+#buttonu2327:hover
+{
+	width: 57px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#buttonu2327.ButtonSelected
+{
+	width: 57px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2328
+{
+	z-index: 29;
+	margin-right: -10000px;
+}
+
+#buttonu2330
+{
+	z-index: 30;
+	width: 92px;
+	padding-bottom: 3px;
+	top: -16px;
+	left: 894px;
+}
+
+#buttonu2330:hover
+{
+	width: 92px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#buttonu2330.ButtonSelected
+{
+	width: 92px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2331
+{
+	z-index: 31;
+	margin-right: -10000px;
+}
+
+#buttonu2333
+{
+	z-index: 32;
+	width: 62px;
+	padding-bottom: 3px;
+	top: -16px;
+	left: 993px;
+}
+
+#buttonu2333:hover
+{
+	width: 62px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#buttonu2333.ButtonSelected
+{
+	width: 62px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2334
+{
+	z-index: 33;
+	margin-right: -10000px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+}
+
